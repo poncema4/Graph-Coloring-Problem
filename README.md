@@ -1,5 +1,5 @@
 # Graph-Coloring-Problem
-> Language: Minikanren
+> Language: Scheme/Minikanren
 
 Solving the Graph Coloring Problem in Racket using Minikanren, which has the main goal of giving back
 the user possible solutions where no two neighbor nodes can have the same color, each node must have
